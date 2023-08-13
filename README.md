@@ -4,7 +4,6 @@
 
 - 👩‍🎓 I recently joined @neuefische and I'm super excited to delve into web development for the next six months.
 - 🗣 Let me know any advice you have. I'd love to hear it!
-- 💬 Ask me about social media marketing & strategy. I have tons of experience and would be happy to help!
 
 Learning about: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" /> 
