@@ -1,7 +1,5 @@
 # Hello and welcome to my page! 🌸✨🎉
 
-![](https://media.giphy.com/media/5SCRRUSO5tSkKoR00P/giphy.gif)
-
 - 🎓 Web dev student @neuefische for six months.
 - 🔎 Looking for work as a developer or software tester.
 - 💼 Experienced in: social media management, analytics, content marketing, project management, translating.
