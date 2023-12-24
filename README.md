@@ -6,7 +6,7 @@
 
 <h3> 
 
-[Currently working on an app to find your perfect dog match 🐶](https://dog-app-lemon.vercel.app/)
+[Currently working on an app to find your perfect dog match 🐶](https://www.dog-genie.com/)
 
 </h3> 
 
