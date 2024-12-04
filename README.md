@@ -1,9 +1,5 @@
 # Hello and welcome to my page! 🌸✨🎉
 
-- 🎓 Web dev student @neuefische for six months.
-- 🔎 Looking for work as a developer or software tester.
-- 💼 Experienced in: social media management, analytics, content marketing, project management, translating.
-
 <h3> 
 
 [Currently working on an app to find your perfect dog match 🐶](https://www.dog-genie.com/)
