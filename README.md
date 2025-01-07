@@ -2,7 +2,7 @@
 
 <h3> 
 
-[Website to find your perfect dog match 🐶](https://dog-app-lemon.vercel.app/))
+[Website to find your perfect dog match 🐶](https://dog-app-lemon.vercel.app/)
 
 </h3> 
   
